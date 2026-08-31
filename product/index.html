@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LeadSetu — Har Enquiry Ka Turant Jawaab</title>
+<meta name="description" content="LeadSetu: 48 ghante mein aapke business ke liye lead-capture form + turant auto-reply + Google Sheet CRM. Koi lead miss nahi hoga.">
+<style>
+  :root{
+    --ink:#1a1a2e; --paper:#faf7f2; --accent:#e0572f; --accent-dark:#b8431f;
+    --green:#1e7d5c; --line:#e7ddd0; --muted:#6b6459;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans",sans-serif;
+    background:var(--paper); color:var(--ink); line-height:1.55; -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:880px;margin:0 auto;padding:0 24px;}
+  header{padding:22px 0;border-bottom:1px solid var(--line);}
+  header .wrap{display:flex;align-items:center;justify-content:space-between;}
+  .logo{font-weight:800;font-size:20px;letter-spacing:-0.02em;}
+  .logo span{color:var(--accent);}
+  nav a{color:var(--ink);text-decoration:none;font-size:14px;margin-left:22px;font-weight:600;}
+  .hero{padding:64px 0 48px;}
+  .badge{display:inline-block;background:#fdece5;color:var(--accent-dark);font-size:13px;font-weight:700;
+    padding:6px 14px;border-radius:999px;margin-bottom:20px;}
+  h1{font-size:clamp(30px,5vw,46px);font-weight:800;letter-spacing:-0.03em;line-height:1.15;margin-bottom:18px;}
+  h1 em{color:var(--accent);font-style:normal;}
+  .sub{font-size:18px;color:var(--muted);max-width:620px;margin-bottom:30px;}
+  .cta-row{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:16px;}
+  .btn{display:inline-block;padding:14px 26px;border-radius:10px;font-weight:700;font-size:15px;text-decoration:none;
+    transition:transform .12s ease;}
+  .btn:hover{transform:translateY(-1px);}
+  .btn-primary{background:var(--accent);color:#fff;}
+  .btn-secondary{background:#fff;color:var(--ink);border:1px solid var(--line);}
+  .fineprint{font-size:13px;color:var(--muted);}
+  .pain{background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:52px 0;}
+  .pain h2{font-size:26px;font-weight:800;margin-bottom:26px;letter-spacing:-0.02em;}
+  .pain-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px;}
+  .pain-card{padding:20px;border:1px solid var(--line);border-radius:12px;background:var(--paper);}
+  .pain-card .num{font-size:13px;font-weight:800;color:var(--accent);margin-bottom:8px;}
+  .pain-card p{font-size:15px;color:var(--ink);}
+  .how{padding:56px 0;}
+  .how h2{font-size:26px;font-weight:800;margin-bottom:30px;letter-spacing:-0.02em;}
+  .steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:24px;}
+  .step{position:relative;padding-left:0;}
+  .step .n{width:34px;height:34px;border-radius:50%;background:var(--green);color:#fff;display:flex;
+    align-items:center;justify-content:center;font-weight:800;font-size:15px;margin-bottom:12px;}
+  .step h3{font-size:16px;font-weight:700;margin-bottom:6px;}
+  .step p{font-size:14px;color:var(--muted);}
+  .offer{background:var(--ink);color:#fff;padding:56px 0;}
+  .offer h2{font-size:26px;font-weight:800;margin-bottom:14px;}
+  .offer p{font-size:16px;color:#cfcbe0;max-width:620px;margin-bottom:26px;}
+  .offer .price{font-size:15px;color:#fff;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);
+    display:inline-block;padding:14px 18px;border-radius:10px;margin-bottom:26px;}
+  .offer .price b{color:#8fe3c7;}
+  footer{padding:36px 0;border-top:1px solid var(--line);}
+  footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;font-size:13px;color:var(--muted);}
+  @media (max-width:600px){ .cta-row{flex-direction:column;} .btn{text-align:center;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="logo">Lead<span>Setu</span></div>
+    <nav>
+      <a href="#how">Kaise Kaam Karta Hai</a>
+      <a href="#offer">Offer</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <span class="badge">Sirf 48 ghante mein live</span>
+    <h1>Customer ka enquiry aaya,<br>aur aapka reply <em>der se gaya.</em><br>Lead nikal gaya.</h1>
+    <p class="sub">
+      LeadSetu aapke liye ek chhota sa system laga deta hai — website ya WhatsApp se enquiry aate hi
+      customer ko turant reply jaata hai, aur har lead ek Google Sheet mein safe rehta hai. Aapko kuch
+      naya seekhna nahi, sirf follow-up karna hai.
+    </p>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="mailto:hello@leadsetu.example?subject=LeadSetu%20demo%20chahiye">Free Demo Maango</a>
+      <a class="btn btn-secondary" href="#how">Kaise Kaam Karta Hai</a>
+    </div>
+    <p class="fineprint">Pehle 3 businesses ke liye — bilkul free pilot, koi setup fee nahi.</p>
+  </div>
+</section>
+
+<section class="pain">
+  <div class="wrap">
+    <h2>Ye sab familiar lagta hai?</h2>
+    <div class="pain-grid">
+      <div class="pain-card">
+        <div class="num">Problem 1</div>
+        <p>Website ya WhatsApp pe enquiry aati hai, lekin dukaan/clinic busy hone ki wajah se 2-3 ghante baad reply jaata hai — tab tak customer kisi aur ke paas chala jaata hai.</p>
+      </div>
+      <div class="pain-card">
+        <div class="num">Problem 2</div>
+        <p>Leads ka koi ek jagah record nahi hota — kabhi diary mein, kabhi WhatsApp chat mein, kabhi yaad hi nahi rehta ki follow-up karna tha.</p>
+      </div>
+      <div class="pain-card">
+        <div class="num">Problem 3</div>
+        <p>Ek baar reply na aane par customer bhool jaata hai — koi reminder nahi jo dobara unhe contact kare.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="how" id="how">
+  <div class="wrap">
+    <h2>LeadSetu kya karta hai</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="n">1</div>
+        <h3>Simple Form</h3>
+        <p>Aapki website ya ek chhota link — customer apna naam, number, kya chahiye likh ke submit karta hai.</p>
+      </div>
+      <div class="step">
+        <div class="n">2</div>
+        <h3>Turant Auto-Reply</h3>
+        <p>Submit hote hi customer ko email/WhatsApp-link se turant "hume mila, jald contact karenge" jaata hai.</p>
+      </div>
+      <div class="step">
+        <div class="n">3</div>
+        <h3>Google Sheet CRM</h3>
+        <p>Har lead ek Sheet mein save hota hai — naam, number, date, status. Aap kahin se bhi dekh sakte ho.</p>
+      </div>
+      <div class="step">
+        <div class="n">4</div>
+        <h3>Follow-up Nudge</h3>
+        <p>Agar 24 ghante mein status update nahi hua, aapko reminder milta hai — koi lead bhoolta nahi.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="offer" id="offer">
+  <div class="wrap">
+    <h2>Pehle 3 businesses ke liye — Free Pilot</h2>
+    <p>
+      Hum abhi apne pehle kuch clients dhoond rahe hain jo ye system try karke real feedback de sakein.
+      Setup, form, aur pehle mahine ka support — sab free. Aapko sirf apna WhatsApp/email dena hai jahan
+      leads aani chahiye.
+    </p>
+    <div class="price">Setup: <b>₹0</b> &nbsp;•&nbsp; Live in: <b>48 ghante</b> &nbsp;•&nbsp; Contract: <b>Koi nahi</b></div>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="mailto:hello@leadsetu.example?subject=LeadSetu%20free%20pilot%20chahiye">Free Pilot Ke Liye Likhein</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span>&copy; 2026 LeadSetu — ek solo-run setup, Bharat ke chhote businesses ke liye.</span>
+    <span>Sawaal ho toh reply karein — hum khud padhte hain.</span>
+  </div>
+</footer>
+
+</body>
+</html>
