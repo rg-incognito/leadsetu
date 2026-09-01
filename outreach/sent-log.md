@@ -24,12 +24,49 @@ included, never re-contact the same business within 14 days without a reply.
 | 2026-09-01 | The Reallsters | sales@thereallsters.com | Dehradun | Real estate consultancy | Chhoti si baat — The Reallsters ke client enquiries ka jawaab | Gmail msg id 1a0595ccf34e5ddc |
 | 2026-09-01 | Milaap Weddings | Milaapweddings@gmail.com | Indore | Wedding planner | Chhoti si baat — Milaap Weddings ke couple enquiries ka jawaab | Gmail msg id 1a0595cdbb4190fd |
 
-**Total sent tonight: 15/15 (cap reached).** All content matches the template in this
-log (see git history for exact body text sent, identical structure per email: problem
-statement, offer, free-pilot CTA, "STOP" opt-out line, signed Rohit / LeadSetu /
-rohitgande0705@gmail.com). No fabricated claims, numbers, or client references were
-made. None of these businesses have been contacted before — first contact for all 15.
-Next session: do NOT re-contact any of these 15 before **2026-09-15** (14-day rule)
-unless they reply first. The remaining 10 verified-email businesses in
-`research/targets.md` (not yet emailed) are the next 10 candidates once the 14-day
-window opens or a new batch is needed — see STATE.md.
+**Total sent night 1 (2026-08-31/09-01): 15/15 (cap reached).** All content matches the
+template in this log (see git history for exact body text sent, identical structure per
+email: problem statement, offer, free-pilot CTA, "STOP" opt-out line, signed Rohit /
+LeadSetu / rohitgande0705@gmail.com). No fabricated claims, numbers, or client
+references were made. None of these businesses have been contacted before — first
+contact for all 15. Do NOT re-contact any of these 15 before **2026-09-15** (14-day
+rule) unless they reply first.
+
+**Bounces from night 1 (checked night 2, 2026-09-01):**
+- **Neo Physio** (info@neophysio.co.in) — hard bounce, "550 No Such User" — address is
+  invalid/does not exist. Treat as a dead contact; do not retry this address. If
+  re-approaching Neo Physio is worth it later, it needs a fresh contact method (phone/
+  WhatsApp — see their site), not this email.
+- **The Reallsters** (sales@thereallsters.com) — soft bounce, "Recipient inbox full."
+  Message was not delivered but the address may work again later. Still counts as
+  contacted for the 14-day rule (no re-send before 2026-09-15); if it's still relevant
+  after that, worth a retry since a full inbox is often temporary.
+
+## Night 2 (2026-09-01) — remaining 10 verified-email targets from research pass 1
+
+| Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
+|---|---|---|---|---|---|---|
+| 2026-09-01 | Pearl Skin, Hair & Laser Centre | pearlhospitalnagpur@gmail.com | Nagpur | Dermatology/skin clinic | Chhoti si baat — Pearl Skin, Hair & Laser Centre ke patient enquiries ka jawaab | Gmail msg id 1a05e76dc2f29d66 |
+| 2026-09-01 | Lavana Spa | lavana913@gmail.com | Lucknow | Spa | Chhoti si baat — Lavana Spa ke customer enquiries ka jawaab | Gmail msg id 1a05e76f19718e80 |
+| 2026-09-01 | Spa Care & Wellness | info@spacare.com | Indore | Spa/wellness | Chhoti si baat — Spa Care & Wellness ke customer enquiries ka jawaab | Gmail msg id 1a05e77043f5aa03 |
+| 2026-09-01 | SerenityIn Spa | serenityinn2024@gmail.com | Indore | Spa | Chhoti si baat — SerenityIn Spa ke customer enquiries ka jawaab | Gmail msg id 1a05e77199248fde |
+| 2026-09-01 | Truestudez | support@truestudez.com | Ranchi | Coaching/tuition center | Chhoti si baat — Truestudez ke admission enquiries ka jawaab | Gmail msg id 1a05e772bbd083c8 |
+| 2026-09-01 | Ishamina | ishaminaghy@gmail.com | Guwahati | Electronics store | Chhoti si baat — Ishamina ke customer enquiries ka jawaab | Gmail msg id 1a05e773e5b95985 |
+| 2026-09-01 | Donna Fitness Studio | donnafitnessf@gmail.com | Jaipur | Women's fitness studio | Chhoti si baat — Donna Fitness Studio ke membership enquiries ka jawaab | Gmail msg id 1a05e775367aa7f9 |
+| 2026-09-01 | Kanpur Interior Designer | kanpurinteriordesigner@gmail.com | Kanpur | Interior design consultant | Chhoti si baat — Kanpur Interior Designer ke client enquiries ka jawaab | Gmail msg id 1a05e77662de0d86 |
+| 2026-09-01 | Carnival Events & Wedding Planner | Eventmanagementcarnival@gmail.com | Bhubaneswar | Event/wedding planner | Chhoti si baat — Carnival Events & Wedding Planner ke client enquiries ka jawaab | Gmail msg id 1a05e777c360b270 |
+| 2026-09-01 | Bhavana Wedding Planner | bhavanaweddingsplanner@gmail.com | Indore | Wedding planner | Chhoti si baat — Bhavana Wedding Planner ke couple enquiries ka jawaab | Gmail msg id 1a05e778ea8292b8 |
+
+**Total sent night 2: 10/15 (under cap — only 10 verified-email targets remained in
+`research/targets.md` from research pass 1; all of them used tonight).** Same template
+structure and compliance as night 1 (truthful, no fabricated claims, opt-out line,
+first contact for all 10). Do NOT re-contact any of these 10 before **2026-09-15**
+unless they reply first.
+
+**`research/targets.md` research-pass-1 list is now fully exhausted** — all 25
+verified-email businesses have been contacted (15 night 1 + 10 night 2). The 4
+phone/form-only businesses (Smile Dental Clinic, Saikiran House of Furniture, Shree
+Shivam Clothing Store, Namma Properties) still have no email route — need a
+phone/WhatsApp outreach approach or a fresh research pass to find more candidates.
+Next outreach batch needs a **new research pass** (see STATE.md) before any more
+emails can be sent — do not guess/pattern-match emails for the phone-only 4.

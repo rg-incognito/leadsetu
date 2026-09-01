@@ -38,7 +38,7 @@ phone/WhatsApp-based outreach, not tonight's email run.
 | Dermys Skin and Hair Clinic | Nagpur | Dermatology / skin clinic | dermysclinic@gmail.com | https://www.dermysclinic.com/contact.html | Small dermatology clinic using a Gmail contact address — classic sign of no CRM/helpdesk. |
 | Pearl Skin, Hair & Laser Centre | Nagpur | Dermatology / skin clinic | pearlhospitalnagpur@gmail.com | https://pearlskinandlasercentre.com/ | Independent skin/laser clinic, single Nagpur location, Gmail-based contact. |
 | Head 2 Toe Physiotherapy Clinic | Coimbatore | Physiotherapy clinic | info@headtotoe.in | https://www.headtotoe.in/contact-us | Owner-run clinic (founded by two named doctors), simple contact page — likely misses after-hours enquiries. |
-| Neo Physio | Coimbatore | Physiotherapy clinic (home-visit) | info@neophysio.co.in | https://neophysio.co.in/physiotherapist-for-home-visit-in-coimbatore/ | Home-visit physio service — enquiries are time-sensitive and easy to lose without fast follow-up. |
+| Neo Physio | Coimbatore | Physiotherapy clinic (home-visit) | ~~info@neophysio.co.in~~ — **hard-bounced 2026-09-01, address invalid** | https://neophysio.co.in/physiotherapist-for-home-visit-in-coimbatore/ | Home-visit physio service — enquiries are time-sensitive and easy to lose without fast follow-up. Email dead; needs phone/WhatsApp re-approach if revisited. |
 
 ## Beauty Salons / Spas
 
@@ -81,7 +81,7 @@ phone/WhatsApp-based outreach, not tonight's email run.
 | Business Name | City | Category | Contact Email | Source URL | Why good fit |
 |---|---|---|---|---|---|
 | Kanpur Interior Designer | Kanpur | Interior design consultant | kanpurinteriordesigner@gmail.com | https://www.facebook.com/KanpurInteriorDesigner/ | Solo/independent interior designer running a Facebook-first presence — no CRM, enquiries via DM/Gmail. |
-| The Reallsters | Dehradun | Real estate consultancy | sales@thereallsters.com | http://www.thereallsters.com/ | Small independent property-dealer firm, single office, basic contact channel. |
+| The Reallsters | Dehradun | Real estate consultancy | sales@thereallsters.com — **soft-bounced 2026-09-01, "inbox full"; may work on a later retry** | http://www.thereallsters.com/ | Small independent property-dealer firm, single office, basic contact channel. |
 | Namma Properties | Mysore | Real estate consultancy | none found — phone/form only | https://www.nammaproperties.com/contact | Independent local property consultancy; site invites email/call/WhatsApp but no address was visible in search results — needs manual lookup before outreach. |
 
 ## Event / Wedding Planners
@@ -93,6 +93,15 @@ phone/WhatsApp-based outreach, not tonight's email run.
 | Bhavana Wedding Planner | Indore | Wedding planner | bhavanaweddingsplanner@gmail.com | https://bhavanaweddingplanner.com/ | Independent wedding planner, phone/WhatsApp/Gmail as only contact channels. |
 
 ---
+
+### Status as of 2026-09-01 (night 2)
+
+**All 25 verified-email businesses on this list have now been emailed** (15 on night 1,
+10 on night 2 — see `outreach/sent-log.md`). This research pass is exhausted for email
+outreach. Remaining un-emailed items are only the 4 phone/form-only businesses below,
+plus 2 bounces (Neo Physio hard-bounced, The Reallsters soft-bounced — see inline notes
+above). **Next session needs a fresh research pass** (new cities/categories, same
+verified-email-only sourcing method) before any more cold email can go out.
 
 ### Notes for whoever runs tonight's outreach
 
