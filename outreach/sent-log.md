@@ -68,5 +68,23 @@ verified-email businesses have been contacted (15 night 1 + 10 night 2). The 4
 phone/form-only businesses (Smile Dental Clinic, Saikiran House of Furniture, Shree
 Shivam Clothing Store, Namma Properties) still have no email route — need a
 phone/WhatsApp outreach approach or a fresh research pass to find more candidates.
-Next outreach batch needs a **new research pass** (see STATE.md) before any more
-emails can be sent — do not guess/pattern-match emails for the phone-only 4.
+
+## Night 2 continued — research pass 2 (new cities), 5 more sent to reach cap
+
+Research pass 2 (`research/targets-pass2.md`) found 20 new candidates across 14 fresh
+tier-2/tier-3 cities. Sent 5 of the 18 verified-email ones tonight to use up the
+remaining nightly cap (10 + 5 = 15/15), picked for max category/city spread against
+what pass 1 already covered:
+
+| Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
+|---|---|---|---|---|---|---|
+| 2026-09-01 | Dentique Dental Studio | dentiquedentalstudio@gmail.com | Kochi | Dental clinic | Chhoti si baat — Dentique Dental Studio ke patient enquiries ka jawaab | Gmail msg id 1a05e7e3448df846 |
+| 2026-09-01 | Physiotherapy Vijayawada | info@physiotherapyvijayawada.in | Vijayawada | Physiotherapy clinic | Chhoti si baat — Physiotherapy Vijayawada ke patient enquiries ka jawaab | Gmail msg id 1a05e7e4a1e1d62b |
+| 2026-09-01 | Global Caterers | globalcaterersofficial@gmail.com | Chandigarh | Catering | Chhoti si baat — Global Caterers ke customer enquiries ka jawaab | Gmail msg id 1a05e7e5eff2905a |
+| 2026-09-01 | Mona Studio | monastudio.dhanbad@gmail.com | Dhanbad | Photography (weddings/events) | Chhoti si baat — Mona Studio ke customer enquiries ka jawaab | Gmail msg id 1a05e7e7073302f6 |
+| 2026-09-01 | Sunshine Yoga Amritsar | sunshineyogaamritsar@gmail.com | Amritsar | Yoga studio | Chhoti si baat — Sunshine Yoga Amritsar ke student enquiries ka jawaab | Gmail msg id 1a05e7e845009119 |
+
+**Total sent tonight across both batches: 15/15 (cap reached).** Same compliance as
+above (truthful, opt-out line, first contact for all). Do NOT re-contact any of
+tonight's 15 before **2026-09-15**. 13 verified-email businesses remain unused in
+`research/targets-pass2.md` — ready for the next outreach batch.
