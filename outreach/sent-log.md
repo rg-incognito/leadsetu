@@ -88,3 +88,46 @@ what pass 1 already covered:
 above (truthful, opt-out line, first contact for all). Do NOT re-contact any of
 tonight's 15 before **2026-09-15**. 13 verified-email businesses remain unused in
 `research/targets-pass2.md` — ready for the next outreach batch.
+
+## Night 3 (2026-09-02) — checked replies, logged 2 new bounces, sent final 13 from pass 2
+
+**Reply check:** searched `subject:"Chhoti si baat"` across all 30 prior threads. No genuine
+prospect replies yet (expected — oldest batch ~2 days old, newest ~24h old). Found 2 more
+delivery bounces not previously logged (in addition to the 2 already known):
+- **Physiotherapy Vijayawada** (info@physiotherapyvijayawada.in) — hard bounce, "Address not
+  found." Marked dead in `research/targets-pass2.md`.
+- **Spa Care & Wellness** (info@spacare.com) — hard bounce, "Address not found." Marked dead
+  in `research/targets.md`.
+
+**Vercel check:** still no Vercel MCP tool in this environment; no way to verify/complete
+linking from here. Unchanged — see `STATE.md` Needs owner decision #1.
+
+**Sent tonight — all 13 remaining verified-email candidates from `research/targets-pass2.md`**
+(the full unused list, under the 15/night cap):
+
+| Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
+|---|---|---|---|---|---|---|
+| 2026-09-02 | Dr. Swati's Perfect Skin Clinic | swatisarabdeep@gmail.com | Amritsar | Skin/derm clinic | Chhoti si baat — Dr. Swati's Perfect Skin Clinic ke patient enquiries ka jawaab | Gmail msg id 1a0639dae03ffdaf |
+| 2026-09-02 | S2 Unisex Hair & Beauty Salon | s2unisexhairbeautysalon@gmail.com | Patna | Salon | Chhoti si baat — S2 Unisex Hair & Beauty Salon ke customer enquiries ka jawaab | Gmail msg id 1a0639dbb07f8c8a |
+| 2026-09-02 | The Cutting King Unisex Salon & Spa | thecuttingkingsalon@gmail.com | Patna | Salon/Spa | Chhoti si baat — The Cutting King Unisex Salon & Spa ke customer enquiries ka jawaab | Gmail msg id 1a0639dc8783a371 |
+| 2026-09-02 | D2S Unisex Salon & Spa | d2ssalonpatna123@gmail.com | Patna | Salon/Spa | Chhoti si baat — D2S Unisex Salon & Spa ke customer enquiries ka jawaab | Gmail msg id 1a0639dd5291723a |
+| 2026-09-02 | Modern Thai Wellness | modernthaiwellness@gmail.com | Raipur | Spa | Chhoti si baat — Modern Thai Wellness ke customer enquiries ka jawaab | Gmail msg id 1a0639de22ef3883 |
+| 2026-09-02 | Guru Drona Academy | gurudronaacademy1108@gmail.com | Jabalpur | Coaching (competitive exams) | Chhoti si baat — Guru Drona Academy ke admission enquiries ka jawaab | Gmail msg id 1a0639def6a0c517 |
+| 2026-09-02 | E Square Academy | esquareinstitution@gmail.com | Thiruvananthapuram | Coaching (NEET/JEE) | Chhoti si baat — E Square Academy ke admission enquiries ka jawaab | Gmail msg id 1a0639df82afc621 |
+| 2026-09-02 | Trichy SM Furniture | trichysmfurniture@gmail.com | Trichy | Retail (furniture) | Chhoti si baat — Trichy SM Furniture ke customer enquiries ka jawaab | Gmail msg id 1a0639e06802a4ab |
+| 2026-09-02 | Gravity Fitness | gravityfitness4u@gmail.com | Kochi | Gym | Chhoti si baat — Gravity Fitness ke membership enquiries ka jawaab | Gmail msg id 1a0639e6814529fa |
+| 2026-09-02 | Kapil Jain Architects | kapiljainarchitects@gmail.com | Udaipur | Interior/Architecture | Chhoti si baat — Kapil Jain Architects ke client enquiries ka jawaab | Gmail msg id 1a0639e1f40a6c55 |
+| 2026-09-02 | Bharat Interior | bharatinterior07@gmail.com | Udaipur | Interior design | Chhoti si baat — Bharat Interior ke client enquiries ka jawaab | Gmail msg id 1a0639e2cd48676a |
+| 2026-09-02 | Amar Estate Agency | info@amarestateagency.com | Rajkot | Real estate | Chhoti si baat — Amar Estate Agency ke buyer enquiries ka jawaab | Gmail msg id 1a0639e395dc5110 |
+| 2026-09-02 | Universe Marriage | universemarriage@gmail.com | Varanasi | Wedding planner | Chhoti si baat — Universe Marriage ke couple enquiries ka jawaab | Gmail msg id 1a0639e45fc7acb5 |
+
+**Total sent tonight: 13/15 (under cap — this was the entire remaining list from pass 2).**
+One send (Gravity Fitness) hit a transient "service unavailable" error on first attempt;
+retried once, confirmed via `search_threads` that only one message exists in that thread (no
+duplicate send). Same compliance as prior nights: truthful, no fabricated claims/numbers,
+signed with real name + reply address, "STOP" opt-out line, first contact for all 13. Do NOT
+re-contact any of tonight's 13 before **2026-09-16** (14-day rule) unless they reply first.
+
+**Running total: 43 businesses contacted across 3 nights (15 + 15 + 13).**
+`research/targets-pass2.md` is now fully exhausted for email outreach — next batch needs
+research pass 3 (fresh cities, same verified-email-only method).

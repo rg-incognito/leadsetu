@@ -48,7 +48,7 @@ phone/WhatsApp-based outreach, not tonight's email run.
 | Diva n Debonair | Jaipur | Beauty salon / makeup studio | info@divandebonair.com | https://www.divandebonair.com/beauty/ | Boutique makeup/beauty studio, single location, likely handles enquiries manually. |
 | Swan Spa | Lucknow | Spa | swanspalko@gmail.com | https://www.swanspa.in/contact-us | Independent local spa, Gmail-based contact page — good fit for missed-enquiry follow-up. |
 | Lavana Spa | Lucknow | Spa | lavana913@gmail.com | https://spalavana.com/contact-us/ | Small local spa with a simple contact page and no visible CRM/chat widget. |
-| Spa Care & Wellness | Indore | Spa / wellness | info@spacare.com | https://spacare.com/ | Single-location wellness/spa business, basic contact page only. |
+| Spa Care & Wellness | Indore | Spa / wellness | ~~info@spacare.com~~ — **hard-bounced 2026-09-01, "Address not found"** | https://spacare.com/ | Single-location wellness/spa business, basic contact page only. Email dead; would need phone/WhatsApp re-approach if revisited. |
 | SerenityIn Spa | Indore | Spa | serenityinn2024@gmail.com | https://serenityinspa.com/ | Newer independent spa (site set up 2024), likely still handling all enquiries manually. |
 
 ## Coaching / Tuition Centers
