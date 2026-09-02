@@ -131,3 +131,24 @@ re-contact any of tonight's 13 before **2026-09-16** (14-day rule) unless they r
 **Running total: 43 businesses contacted across 3 nights (15 + 15 + 13).**
 `research/targets-pass2.md` is now fully exhausted for email outreach — next batch needs
 research pass 3 (fresh cities, same verified-email-only method).
+
+## Night 3 continued — research pass 3 (new cities), 2 more sent to reach 15/15 cap
+
+Research pass 3 (`research/targets-pass3.md`) found 18 new candidates across 14 fresh
+tier-2/tier-3 cities (Agra, Ludhiana, Jalandhar, Aurangabad, Bareilly, Siliguri, Gwalior,
+Amravati, Warangal, Salem, Madurai, Hisar, Meerut, Rohtak) — 14 verified emails, 4
+phone/form-only. Sent 2 of the 14 tonight to reach the 15/night cap (13 + 2 = 15), picked
+for category diversity against everything already sent tonight and this week (dental,
+catering — neither used yet tonight):
+
+| Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
+|---|---|---|---|---|---|---|
+| 2026-09-02 | 32 Gems Dental Clinic | 32gemsdentalclinic@gmail.com | Ludhiana | Dental clinic | Chhoti si baat — 32 Gems Dental Clinic ke patient enquiries ka jawaab | Gmail msg id 1a063a5a9ecf63bd |
+| 2026-09-02 | Mohan's Catering Services | mohancateringservicesalem@gmail.com | Salem | Catering | Chhoti si baat — Mohan's Catering Services ke customer enquiries ka jawaab | Gmail msg id 1a063a5b43964fd8 |
+
+**Total sent tonight across both batches: 15/15 (cap reached).** Same compliance as above
+(truthful, opt-out line, first contact for all). Do NOT re-contact any of tonight's 15
+before **2026-09-16**. 12 verified-email businesses remain unused in
+`research/targets-pass3.md` for the next outreach batch.
+
+**Running total: 45 businesses contacted across 3 nights (15 + 15 + 15).**
