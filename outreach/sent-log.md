@@ -187,4 +187,22 @@ tonight's 12 before **2026-09-17** (14-day rule) unless they reply first.
 
 **`research/targets-pass3.md` is now fully exhausted for email outreach.**
 
-**Running total: 57 businesses contacted across 4 nights (15 + 15 + 15 + 12).**
+## Night 4 continued — research pass 4 (new cities), 3 more sent to reach 15/15 cap
+
+Research pass 4 (`research/targets-pass4.md`) found 9 new candidates across 8 fresh
+tier-2/tier-3 cities (Belagavi, Ajmer, Durgapur, Moradabad, Tirupur, Panipat, Bathinda,
+Karimnagar) — 7 verified emails, 2 phone/form-only. Sent 3 of the 7 tonight to reach the
+15/night cap (12 + 3 = 15), picked for max city/category spread:
+
+| Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
+|---|---|---|---|---|---|---|
+| 2026-09-03 | Tulsi Dental Clinic | info@tulsidentalclinic.com | Ajmer | Dental clinic | Chhoti si baat — Tulsi Dental Clinic ke patient enquiries ka jawaab | Gmail msg id 1a068c8051aeea49 |
+| 2026-09-03 | Mission Fitness Multi Gym | missionfitnessmultigym@gmail.com | Durgapur | Gym | Chhoti si baat — Mission Fitness Multi Gym ke membership enquiries ka jawaab | Gmail msg id 1a068c813a540677 |
+| 2026-09-03 | Mittal Sarees | support@mittalsarees.com | Panipat | Retail (saree/lehenga shop) | Chhoti si baat — Mittal Sarees ke customer enquiries ka jawaab | Gmail msg id 1a068c81cd54847f |
+
+**Total sent tonight across both batches: 15/15 (cap reached).** Same compliance as above
+(truthful, opt-out line, first contact for all). Do NOT re-contact any of tonight's 15
+before **2026-09-17**. 4 verified-email businesses remain unused in
+`research/targets-pass4.md` for the next outreach batch.
+
+**Running total: 60 businesses contacted across 4 nights (15 + 15 + 15 + 15).**
