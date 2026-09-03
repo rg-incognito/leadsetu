@@ -152,3 +152,39 @@ before **2026-09-16**. 12 verified-email businesses remain unused in
 `research/targets-pass3.md` for the next outreach batch.
 
 **Running total: 45 businesses contacted across 3 nights (15 + 15 + 15).**
+
+## Night 4 (2026-09-03) — reply/bounce check, sent all 12 remaining from pass 3
+
+**Reply check:** searched `subject:"Chhoti si baat"` across all 45 prior threads. No genuine
+prospect replies. No new bounces beyond the 4 already known (Neo Physio, Spa Care & Wellness,
+Physiotherapy Vijayawada — hard; The Reallsters — soft).
+
+**Vercel check:** still no Vercel connector/MCP tool available in this environment (confirmed
+via `ListConnectors` and `ToolSearch`). Unchanged — see `STATE.md` Needs owner decision #1.
+
+**Sent tonight — all 12 remaining verified-email candidates from `research/targets-pass3.md`**
+(exhausts that file):
+
+| Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
+|---|---|---|---|---|---|---|
+| 2026-09-03 | Dr. Ishita's Divine Skin Clinic | drishitadivineskinclinic@gmail.com | Agra | Skin/derm clinic | Chhoti si baat — Dr. Ishita's Divine Skin Clinic ke patient enquiries ka jawaab | Gmail msg id 1a068c345b74a7e6 |
+| 2026-09-03 | Skinic | skinicagra@gmail.com | Agra | Skin/derm clinic | Chhoti si baat — Skinic ke patient enquiries ka jawaab | Gmail msg id 1a068c3515f4a78e |
+| 2026-09-03 | Saini Physiotherapy | sainiphysios@gmail.com | Jalandhar | Physiotherapy (child dev/autism) | Chhoti si baat — Saini Physiotherapy ke patient enquiries ka jawaab | Gmail msg id 1a068c35ed721429 |
+| 2026-09-03 | The Beauty and Beyond Salon by Shan | beautyandbeyondbyshan@gmail.com | Bareilly | Salon | Chhoti si baat — The Beauty and Beyond Salon by Shan ke customer enquiries ka jawaab | Gmail msg id 1a068c36c4ad1491 |
+| 2026-09-03 | Abhilasha Classes | info@abhilashaclasses.com | Gwalior | Coaching (school/JEE/NEET) | Chhoti si baat — Abhilasha Classes ke admission enquiries ka jawaab | Gmail msg id 1a068c379e0a014c |
+| 2026-09-03 | Chintamani Coaching Classes | 21chintamani@gmail.com | Amravati | Coaching | Chhoti si baat — Chintamani Coaching Classes ke admission enquiries ka jawaab | Gmail msg id 1a068c384f4cfe2c |
+| 2026-09-03 | Fitness Floor Gym | fitnessfloorabd@gmail.com | Aurangabad | Gym | Chhoti si baat — Fitness Floor Gym ke membership enquiries ka jawaab | Gmail msg id 1a068c3923ca8e66 |
+| 2026-09-03 | Sonizi | inboxsonizi@gmail.com | Siliguri | Interior design/Vastu | Chhoti si baat — Sonizi ke client enquiries ka jawaab | Gmail msg id 1a068c39ecc73985 |
+| 2026-09-03 | BR Property's | brarhisar123@gmail.com | Hisar | Real estate | Chhoti si baat — BR Property's ke buyer enquiries ka jawaab | Gmail msg id 1a068c3aa580ab9e |
+| 2026-09-03 | Ravishing Preet Boutique | ravishingpreetboutique@gmail.com | Jalandhar | Retail (boutique) | Chhoti si baat — Ravishing Preet Boutique ke customer enquiries ka jawaab | Gmail msg id 1a068c3b9ae80544 |
+| 2026-09-03 | Yakub Events | yakubevents@gmail.com | Warangal | Wedding/event planner | Chhoti si baat — Yakub Events ke couple enquiries ka jawaab | Gmail msg id 1a068c3c6ec6512e |
+| 2026-09-03 | D-Studio Photography | dstudio.photography24x7@gmail.com | Madurai | Photography | Chhoti si baat — D-Studio Photography ke customer enquiries ka jawaab | Gmail msg id 1a068c3d15cd2b42 |
+
+**Total sent tonight: 12/15 (under cap — this was the entire remaining list from pass 3).**
+Same compliance as prior nights: truthful, no fabricated claims/numbers, signed with real
+name + reply address, "STOP" opt-out line, first contact for all 12. Do NOT re-contact any of
+tonight's 12 before **2026-09-17** (14-day rule) unless they reply first.
+
+**`research/targets-pass3.md` is now fully exhausted for email outreach.**
+
+**Running total: 57 businesses contacted across 4 nights (15 + 15 + 15 + 12).**

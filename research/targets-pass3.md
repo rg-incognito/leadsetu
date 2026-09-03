@@ -44,8 +44,9 @@ were dropped rather than risk a wrong-recipient send:
 **Status:** 18 businesses total. **14 have a verified, publicly-visible, business-branded
 email address**, all double-checked as described above. 4 have phone/form only (see
 bottom table) — future phone/WhatsApp outreach candidates, do not guess an email for them.
-**2 of the 14 emailed 2026-09-02 (used to top up night 3's cap to 15/15) — 12 remain
-unused for the next outreach batch.**
+**2 of the 14 emailed 2026-09-02 (used to top up night 3's cap to 15/15); remaining 12
+emailed 2026-09-03 (night 4). All 14 verified-email candidates now contacted — this file
+is fully exhausted for email outreach.**
 
 ---
 
@@ -53,55 +54,55 @@ unused for the next outreach batch.**
 
 | Business Name | City | Category | Contact Email | Source URL | Why good fit | Status |
 |---|---|---|---|---|---|---|
-| Dr. Ishita's Divine Skin Clinic | Agra | Skin/Derm | drishitadivineskinclinic@gmail.com | https://www.divineskinclinicagra.com/contact.html | Solo-dermatologist clinic (Dr. Ishita Raka Pandit); Gmail-based contact page, no booking/CRM widget visible. | Unused |
-| Skinic – Skin Clinic in Agra | Agra | Skin/Derm | skinicagra@gmail.com | https://skinclinicagra.com/contact-us/ | Independent single-location skin/hair clinic (Namner); Gmail contact, basic site. | Unused |
+| Dr. Ishita's Divine Skin Clinic | Agra | Skin/Derm | drishitadivineskinclinic@gmail.com | https://www.divineskinclinicagra.com/contact.html | Solo-dermatologist clinic (Dr. Ishita Raka Pandit); Gmail-based contact page, no booking/CRM widget visible. | **Emailed 2026-09-03** |
+| Skinic – Skin Clinic in Agra | Agra | Skin/Derm | skinicagra@gmail.com | https://skinclinicagra.com/contact-us/ | Independent single-location skin/hair clinic (Namner); Gmail contact, basic site. | **Emailed 2026-09-03** |
 | 32 Gems Dental Clinic | Ludhiana | Dental | 32gemsdentalclinic@gmail.com | https://www.32gemsdentalclinic.com/contact.html | Independent dental practice (Urban Estate, Sector-39); Gmail-based enquiry handling, not a national chain. | **Emailed 2026-09-02** |
-| Saini Physiotherapy – Child Development & Autism Center | Jalandhar | Physiotherapy | sainiphysios@gmail.com | https://sainiphysios.com/ | Husband-wife-run single-location clinic (Wazir Singh Enclave, Rama Mandi); Gmail contact, no CRM signals. | Unused |
+| Saini Physiotherapy – Child Development & Autism Center | Jalandhar | Physiotherapy | sainiphysios@gmail.com | https://sainiphysios.com/ | Husband-wife-run single-location clinic (Wazir Singh Enclave, Rama Mandi); Gmail contact, no CRM signals. | **Emailed 2026-09-03** |
 
 ## Salons / Beauty
 
 | Business Name | City | Category | Contact Email | Source URL | Why good fit | Status |
 |---|---|---|---|---|---|---|
-| The Beauty and Beyond Salon by Shan | Bareilly | Salon | beautyandbeyondbyshan@gmail.com | https://www.facebook.com/beautyandbeyond.byshan/ | Single-outlet salon; Facebook-page-first presence, Gmail contact, no booking system evident. | Unused |
+| The Beauty and Beyond Salon by Shan | Bareilly | Salon | beautyandbeyondbyshan@gmail.com | https://www.facebook.com/beautyandbeyond.byshan/ | Single-outlet salon; Facebook-page-first presence, Gmail contact, no booking system evident. | **Emailed 2026-09-03** |
 
 ## Coaching / Tuition
 
 | Business Name | City | Category | Contact Email | Source URL | Why good fit | Status |
 |---|---|---|---|---|---|---|
-| Abhilasha Classes | Gwalior | Coaching (school/JEE/NEET) | info@abhilashaclasses.com | https://abhilashaclasses.com/contact.html | Single-branch coaching institute (Kushwah Market Road) led by one educator; own-domain email, no CRM. | Unused |
-| Chintamani Coaching Classes | Amravati | Coaching | 21chintamani@gmail.com | https://chintamanicoaching.com/contact.php | Independent local coaching center (Shankar Nagar Road); Gmail contact, single location. | Unused |
+| Abhilasha Classes | Gwalior | Coaching (school/JEE/NEET) | info@abhilashaclasses.com | https://abhilashaclasses.com/contact.html | Single-branch coaching institute (Kushwah Market Road) led by one educator; own-domain email, no CRM. | **Emailed 2026-09-03** |
+| Chintamani Coaching Classes | Amravati | Coaching | 21chintamani@gmail.com | https://chintamanicoaching.com/contact.php | Independent local coaching center (Shankar Nagar Road); Gmail contact, single location. | **Emailed 2026-09-03** |
 
 ## Gyms / Fitness
 
 | Business Name | City | Category | Contact Email | Source URL | Why good fit | Status |
 |---|---|---|---|---|---|---|
-| Fitness Floor Gym | Aurangabad (Chhatrapati Sambhajinagar) | Gym | fitnessfloorabd@gmail.com | https://www.justdial.com/Aurangabad-Maharashtra/Fitness-Floor-Unisex-Gym-Infront-Of-Guru-Tech-Bahadur-School-Osmanpura/9999PX240-X240-180322182851-Y2L5_BZDET | Single-location unisex gym (Osmanpura); Gmail contact, no membership-CRM signals. | Unused |
+| Fitness Floor Gym | Aurangabad (Chhatrapati Sambhajinagar) | Gym | fitnessfloorabd@gmail.com | https://www.justdial.com/Aurangabad-Maharashtra/Fitness-Floor-Unisex-Gym-Infront-Of-Guru-Tech-Bahadur-School-Osmanpura/9999PX240-X240-180322182851-Y2L5_BZDET | Single-location unisex gym (Osmanpura); Gmail contact, no membership-CRM signals. | **Emailed 2026-09-03** |
 
 ## Real Estate / Interior
 
 | Business Name | City | Category | Contact Email | Source URL | Why good fit | Status |
 |---|---|---|---|---|---|---|
-| Sonizi (Interior & Vastu Consultancy) | Siliguri | Interior design / Vastu | inboxsonizi@gmail.com | https://www.sonizi.com/contact | Small independent interior + Vastu consultancy (Sevoke Road); Gmail contact, single office. | Unused |
-| BR Property's | Hisar | Real estate | brarhisar123@gmail.com | https://www.brpropertys.in/contact-us.htm | Single-office property dealer founded by Surender Brar (Sector 14); Gmail-based enquiry handling. | Unused |
+| Sonizi (Interior & Vastu Consultancy) | Siliguri | Interior design / Vastu | inboxsonizi@gmail.com | https://www.sonizi.com/contact | Small independent interior + Vastu consultancy (Sevoke Road); Gmail contact, single office. | **Emailed 2026-09-03** |
+| BR Property's | Hisar | Real estate | brarhisar123@gmail.com | https://www.brpropertys.in/contact-us.htm | Single-office property dealer founded by Surender Brar (Sector 14); Gmail-based enquiry handling. | **Emailed 2026-09-03** |
 
 ## Retail
 
 | Business Name | City | Category | Contact Email | Source URL | Why good fit | Status |
 |---|---|---|---|---|---|---|
-| Ravishing Preet Boutique | Jalandhar | Retail (clothing boutique) | ravishingpreetboutique@gmail.com | https://www.facebook.com/RavishingPreetBoutique/ | Small independent ladies'-wear boutique (Model Town); Gmail contact, single location. | Unused |
+| Ravishing Preet Boutique | Jalandhar | Retail (clothing boutique) | ravishingpreetboutique@gmail.com | https://www.facebook.com/RavishingPreetBoutique/ | Small independent ladies'-wear boutique (Model Town); Gmail contact, single location. | **Emailed 2026-09-03** |
 
 ## Wedding Planning / Events / Catering
 
 | Business Name | City | Category | Contact Email | Source URL | Why good fit | Status |
 |---|---|---|---|---|---|---|
-| Yakub Events | Warangal (Hanamkonda) | Wedding/event planner | yakubevents@gmail.com | https://www.yakubevents.com/contact | Independent event-planning outfit (weddings, mehndi, sangeet, catering); Gmail contact, single office. | Unused |
+| Yakub Events | Warangal (Hanamkonda) | Wedding/event planner | yakubevents@gmail.com | https://www.yakubevents.com/contact | Independent event-planning outfit (weddings, mehndi, sangeet, catering); Gmail contact, single office. | **Emailed 2026-09-03** |
 | Mohan's Catering Services | Salem | Catering | mohancateringservicesalem@gmail.com | https://mohancateringservices.blogspot.com/p/contact-us.html | Family-run caterer since 1962 (proprietor Mohan.R); Gmail contact, no enquiry-automation visible. | **Emailed 2026-09-02** |
 
 ## Photography
 
 | Business Name | City | Category | Contact Email | Source URL | Why good fit | Status |
 |---|---|---|---|---|---|---|
-| D-Studio Photography | Madurai | Photography (weddings/events) | dstudio.photography24x7@gmail.com | https://www.facebook.com/Dstudiophotography24X7/ | Independent studio (Narimedu), 11 years in business; Gmail contact, single location. | Unused |
+| D-Studio Photography | Madurai | Photography (weddings/events) | dstudio.photography24x7@gmail.com | https://www.facebook.com/Dstudiophotography24X7/ | Independent studio (Narimedu), 11 years in business; Gmail contact, single location. | **Emailed 2026-09-03** |
 
 ## Phone/Form-Only (no verified email — future WhatsApp/phone outreach)
 
