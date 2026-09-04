@@ -219,4 +219,33 @@ Sent the 4 verified-email candidates left over from `research/targets-pass4.md`:
 | 2026-09-04 | Creative Designer and Interior | creativedesigner770@gmail.com | Moradabad | Interior design | Chhoti si baat — Creative Designer and Interior ke client enquiries ka jawaab | Gmail msg id 1a06de9b2716d9ec |
 
 **`research/targets-pass4.md` is now fully exhausted for email outreach.** 4/15 sent so far
-tonight; remaining ~11 to come from a fresh research pass 5 (in progress).
+tonight; remaining 11 came from a fresh research pass 5 (below).
+
+## Night 5 continued — research pass 5 (new cities), 11 more sent to reach 15/15 cap
+
+Research pass 5 (`research/targets-pass5.md`, delegated to a subagent) found 11 new
+candidates across 6 fresh cities (Muzaffarpur, Bikaner, Anantapur, Gorakhpur, Nellore,
+Solapur) plus 6 phone/form-only leads. All 11 verified-email candidates emailed tonight
+to reach the 15/night cap (4 + 11 = 15):
+
+| Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
+|---|---|---|---|---|---|---|
+| 2026-09-04 | Smilemax Dental Clinic & Trauma Centre | dsmilemax@gmail.com | Muzaffarpur | Dental clinic | Chhoti si baat — Smilemax Dental Clinic & Trauma Centre ke patient enquiries ka jawaab | Gmail msg id 1a06defecb17a8a6 |
+| 2026-09-04 | Dr Deepika Skin & Hair Clinic | drdeepikaskincare@gmail.com | Bikaner | Skin/Derm clinic | Chhoti si baat — Dr Deepika Skin & Hair Clinic ke patient enquiries ka jawaab | Gmail msg id 1a06deff9f3fc234 |
+| 2026-09-04 | The Royal Photography | theroyalphotography.muz@gmail.com | Muzaffarpur | Photography | Chhoti si baat — The Royal Photography ke customer enquiries ka jawaab | Gmail msg id 1a06df00a2662f14 |
+| 2026-09-04 | Ace Fitness Club | acefitnessclubbikaner@gmail.com | Bikaner | Gym | Chhoti si baat — Ace Fitness Club ke membership enquiries ka jawaab | Gmail msg id 1a06df015573fa57 |
+| 2026-09-04 | Fitness Passion | fitnesspassion.09@gmail.com | Gorakhpur | Gym | Chhoti si baat — Fitness Passion ke membership enquiries ka jawaab | Gmail msg id 1a06df021a58df80 |
+| 2026-09-04 | Teja Academy | tejaacademyonline@gmail.com | Anantapur | Coaching/tuition | Chhoti si baat — Teja Academy ke admission enquiries ka jawaab | Gmail msg id 1a06df02d7b56396 |
+| 2026-09-04 | G STAR Wedding Planner & Event Planner | gstarwedding@gmail.com | Gorakhpur | Wedding/event planner | Chhoti si baat — G STAR Wedding Planner & Event Planner ke couple enquiries ka jawaab | Gmail msg id 1a06df038275e122 |
+| 2026-09-04 | Bujjis Beauty Parlour | bujjisparlour@gmail.com | Nellore | Salon/Beauty | Chhoti si baat — Bujjis Beauty Parlour ke customer enquiries ka jawaab | Gmail msg id 1a06df04776cc98e |
+| 2026-09-04 | Architale Construction & Interiors | architale01@gmail.com | Nellore | Interior design | Chhoti si baat — Architale Construction & Interiors ke client enquiries ka jawaab | Gmail msg id 1a06df054011797d |
+| 2026-09-04 | Chinni Pet Store | chinnipetstore@gmail.com | Nellore | Pet store/grooming | Chhoti si baat — Chinni Pet Store ke customer enquiries ka jawaab | Gmail msg id 1a06df0603970eba |
+| 2026-09-04 | Pandhare Motor Driving Training School | umeshpandhare@gmail.com | Solapur | Driving school | Chhoti si baat — Pandhare Motor Driving Training School ke enrolment enquiries ka jawaab | Gmail msg id 1a06df06c6d10952 |
+
+**Total sent tonight (night 5): 15/15 (cap reached).** Same compliance as prior nights
+(truthful, opt-out line, first contact for all 15). Do NOT re-contact any of tonight's 15
+before **2026-09-18** (14-day rule) unless they reply first.
+
+**`research/targets-pass5.md` is now fully exhausted for email outreach.**
+
+**Running total: 75 businesses contacted across 5 nights (15 + 15 + 15 + 15 + 15).**
