@@ -47,10 +47,11 @@ another compliance rule and were dropped rather than risk a wrong-recipient send
 **Status:** 9 businesses total. **7 have a verified, publicly-visible, business-branded
 email address**, all double-checked as described above. 2 have phone/form only (see
 bottom table) — future phone/WhatsApp outreach candidates, do not guess an email for
-them. **3 of the 7 emailed 2026-09-03 (Tulsi Dental Clinic, Mission Fitness Multi Gym,
-Mittal Sarees — picked for city/category spread). 4 remain unused: Dr. Netra's Laser
-Skin Clinic (Belagavi), Ayana Wellness Spa & Salon (Tirupur), Fitness Unplugged
-(Durgapur), Creative Designer and Interior (Moradabad).**
+them. **All 7 verified-email candidates now emailed: 3 on 2026-09-03 (Tulsi Dental
+Clinic, Mission Fitness Multi Gym, Mittal Sarees), remaining 4 on 2026-09-04 (Dr.
+Netra's Laser Skin Clinic — Belagavi, Ayana Wellness Spa & Salon — Tirupur, Fitness
+Unplugged — Durgapur, Creative Designer and Interior — Moradabad). This file is fully
+exhausted for email outreach.**
 
 ---
 

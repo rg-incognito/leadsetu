@@ -196,7 +196,7 @@ Karimnagar) — 7 verified emails, 2 phone/form-only. Sent 3 of the 7 tonight to
 
 | Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
 |---|---|---|---|---|---|---|
-| 2026-09-03 | Tulsi Dental Clinic | info@tulsidentalclinic.com | Ajmer | Dental clinic | Chhoti si baat — Tulsi Dental Clinic ke patient enquiries ka jawaab | Gmail msg id 1a068c8051aeea49 |
+| 2026-09-03 | Tulsi Dental Clinic | info@tulsidentalclinic.com | Ajmer | Dental clinic | Chhoti si baat — Tulsi Dental Clinic ke patient enquiries ka jawaab | Gmail msg id 1a068c8051aeea49 — **HARD BOUNCE** (address not found, 550 5.1.1), caught night 5 (missed in night 4's own check) |
 | 2026-09-03 | Mission Fitness Multi Gym | missionfitnessmultigym@gmail.com | Durgapur | Gym | Chhoti si baat — Mission Fitness Multi Gym ke membership enquiries ka jawaab | Gmail msg id 1a068c813a540677 |
 | 2026-09-03 | Mittal Sarees | support@mittalsarees.com | Panipat | Retail (saree/lehenga shop) | Chhoti si baat — Mittal Sarees ke customer enquiries ka jawaab | Gmail msg id 1a068c81cd54847f |
 
@@ -206,3 +206,17 @@ before **2026-09-17**. 4 verified-email businesses remain unused in
 `research/targets-pass4.md` for the next outreach batch.
 
 **Running total: 60 businesses contacted across 4 nights (15 + 15 + 15 + 15).**
+
+## Night 5 (2026-09-04) — remaining 4 from pass 4, then pass 5 top-up
+
+Sent the 4 verified-email candidates left over from `research/targets-pass4.md`:
+
+| Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
+|---|---|---|---|---|---|---|
+| 2026-09-04 | Dr. Netra's Laser Skin Clinic | drnetralaserskinclinic@gmail.com | Belagavi | Skin/Derm clinic | Chhoti si baat — Dr. Netra's Laser Skin Clinic ke patient enquiries ka jawaab | Gmail msg id 1a06de98bb495258 |
+| 2026-09-04 | Ayana Wellness Spa & Salon | theayanaspa.india@gmail.com | Tirupur | Salon/Spa | Chhoti si baat — Ayana Wellness Spa & Salon ke customer enquiries ka jawaab | Gmail msg id 1a06de998fac0de5 |
+| 2026-09-04 | Fitness Unplugged | fitnessunplugged23@gmail.com | Durgapur | Gym | Chhoti si baat — Fitness Unplugged ke membership enquiries ka jawaab | Gmail msg id 1a06de9a52ca7036 |
+| 2026-09-04 | Creative Designer and Interior | creativedesigner770@gmail.com | Moradabad | Interior design | Chhoti si baat — Creative Designer and Interior ke client enquiries ka jawaab | Gmail msg id 1a06de9b2716d9ec |
+
+**`research/targets-pass4.md` is now fully exhausted for email outreach.** 4/15 sent so far
+tonight; remaining ~11 to come from a fresh research pass 5 (in progress).
