@@ -171,7 +171,7 @@ via `ListConnectors` and `ToolSearch`). Unchanged — see `STATE.md` Needs owner
 | 2026-09-03 | Skinic | skinicagra@gmail.com | Agra | Skin/derm clinic | Chhoti si baat — Skinic ke patient enquiries ka jawaab | Gmail msg id 1a068c3515f4a78e |
 | 2026-09-03 | Saini Physiotherapy | sainiphysios@gmail.com | Jalandhar | Physiotherapy (child dev/autism) | Chhoti si baat — Saini Physiotherapy ke patient enquiries ka jawaab | Gmail msg id 1a068c35ed721429 |
 | 2026-09-03 | The Beauty and Beyond Salon by Shan | beautyandbeyondbyshan@gmail.com | Bareilly | Salon | Chhoti si baat — The Beauty and Beyond Salon by Shan ke customer enquiries ka jawaab | Gmail msg id 1a068c36c4ad1491 |
-| 2026-09-03 | Abhilasha Classes | info@abhilashaclasses.com | Gwalior | Coaching (school/JEE/NEET) | Chhoti si baat — Abhilasha Classes ke admission enquiries ka jawaab | Gmail msg id 1a068c379e0a014c |
+| 2026-09-03 | Abhilasha Classes | info@abhilashaclasses.com | Gwalior | Coaching (school/JEE/NEET) | Chhoti si baat — Abhilasha Classes ke admission enquiries ka jawaab | Gmail msg id 1a068c379e0a014c — **HARD BOUNCE** (domain couldn't be found), missed by night 4 AND night 5 checks, caught night 6 |
 | 2026-09-03 | Chintamani Coaching Classes | 21chintamani@gmail.com | Amravati | Coaching | Chhoti si baat — Chintamani Coaching Classes ke admission enquiries ka jawaab | Gmail msg id 1a068c384f4cfe2c |
 | 2026-09-03 | Fitness Floor Gym | fitnessfloorabd@gmail.com | Aurangabad | Gym | Chhoti si baat — Fitness Floor Gym ke membership enquiries ka jawaab | Gmail msg id 1a068c3923ca8e66 |
 | 2026-09-03 | Sonizi | inboxsonizi@gmail.com | Siliguri | Interior design/Vastu | Chhoti si baat — Sonizi ke client enquiries ka jawaab | Gmail msg id 1a068c39ecc73985 |
@@ -198,7 +198,7 @@ Karimnagar) — 7 verified emails, 2 phone/form-only. Sent 3 of the 7 tonight to
 |---|---|---|---|---|---|---|
 | 2026-09-03 | Tulsi Dental Clinic | info@tulsidentalclinic.com | Ajmer | Dental clinic | Chhoti si baat — Tulsi Dental Clinic ke patient enquiries ka jawaab | Gmail msg id 1a068c8051aeea49 — **HARD BOUNCE** (address not found, 550 5.1.1), caught night 5 (missed in night 4's own check) |
 | 2026-09-03 | Mission Fitness Multi Gym | missionfitnessmultigym@gmail.com | Durgapur | Gym | Chhoti si baat — Mission Fitness Multi Gym ke membership enquiries ka jawaab | Gmail msg id 1a068c813a540677 |
-| 2026-09-03 | Mittal Sarees | support@mittalsarees.com | Panipat | Retail (saree/lehenga shop) | Chhoti si baat — Mittal Sarees ke customer enquiries ka jawaab | Gmail msg id 1a068c81cd54847f |
+| 2026-09-03 | Mittal Sarees | support@mittalsarees.com | Panipat | Retail (saree/lehenga shop) | Chhoti si baat — Mittal Sarees ke customer enquiries ka jawaab | Gmail msg id 1a068c81cd54847f — temporary delivery delay notice received night 5 (2026-09-04 22:54, "Gmail will retry for 44 more hours"); not yet a final bounce as of night 6 check, watch next session |
 
 **Total sent tonight across both batches: 15/15 (cap reached).** Same compliance as above
 (truthful, opt-out line, first contact for all). Do NOT re-contact any of tonight's 15
@@ -213,7 +213,7 @@ Sent the 4 verified-email candidates left over from `research/targets-pass4.md`:
 
 | Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
 |---|---|---|---|---|---|---|
-| 2026-09-04 | Dr. Netra's Laser Skin Clinic | drnetralaserskinclinic@gmail.com | Belagavi | Skin/Derm clinic | Chhoti si baat — Dr. Netra's Laser Skin Clinic ke patient enquiries ka jawaab | Gmail msg id 1a06de98bb495258 |
+| 2026-09-04 | Dr. Netra's Laser Skin Clinic | drnetralaserskinclinic@gmail.com | Belagavi | Skin/Derm clinic | Chhoti si baat — Dr. Netra's Laser Skin Clinic ke patient enquiries ka jawaab | Gmail msg id 1a06de98bb495258 — **HARD BOUNCE** (address not found, 550 5.1.1), caught night 6 |
 | 2026-09-04 | Ayana Wellness Spa & Salon | theayanaspa.india@gmail.com | Tirupur | Salon/Spa | Chhoti si baat — Ayana Wellness Spa & Salon ke customer enquiries ka jawaab | Gmail msg id 1a06de998fac0de5 |
 | 2026-09-04 | Fitness Unplugged | fitnessunplugged23@gmail.com | Durgapur | Gym | Chhoti si baat — Fitness Unplugged ke membership enquiries ka jawaab | Gmail msg id 1a06de9a52ca7036 |
 | 2026-09-04 | Creative Designer and Interior | creativedesigner770@gmail.com | Moradabad | Interior design | Chhoti si baat — Creative Designer and Interior ke client enquiries ka jawaab | Gmail msg id 1a06de9b2716d9ec |
@@ -249,3 +249,37 @@ before **2026-09-18** (14-day rule) unless they reply first.
 **`research/targets-pass5.md` is now fully exhausted for email outreach.**
 
 **Running total: 75 businesses contacted across 5 nights (15 + 15 + 15 + 15 + 15).**
+
+## Night 6 (2026-09-05) — full reply/bounce re-check, 2 more missed bounces caught
+
+**Reply check:** searched `subject:"Chhoti si baat" in:anywhere`, paginated across all 75
+threads (both pages, 50 + 25, confirmed count matches). Read every non-SENT message in every
+thread. **Still zero genuine prospect replies** — every additional message is either a
+`mailer-daemon` bounce/delay notice or nothing.
+
+**Two more bounces caught that earlier sessions' checks missed** (see corrections inline
+above):
+- **Abhilasha Classes** (info@abhilashaclasses.com) — hard bounce, "domain couldn't be found."
+  This one is notable: it bounced within 2 seconds of sending on night 4 (2026-09-03), yet was
+  missed by night 4's own check AND night 5's full 60-thread check. Caught only now.
+- **Dr. Netra's Laser Skin Clinic** (drnetralaserskinclinic@gmail.com) — hard bounce, "address
+  not found" 550 5.1.1. Sent night 5; this is the first reply check since.
+
+**One delay notice, not yet a bounce:**
+- **Mittal Sarees** (support@mittalsarees.com) — received a "delivery incomplete, will retry
+  for 44 more hours" notice night 5, ~22 hours after send. Not in the thread as a final
+  failure yet. Next session should check if it resolved (delivered) or hard-bounced since.
+
+**Corrected running bounce total: 6 hard + 1 soft out of 75 sends (~9.3%)** — Neo Physio,
+Spa Care & Wellness, Physiotherapy Vijayawada, Tulsi Dental Clinic, Abhilasha Classes,
+Dr. Netra's Laser Skin Clinic (all hard) + The Reallsters (soft). Still not alarming for a
+cold-email campaign to public listing addresses, but climbing slightly as a fraction — worth
+watching, not yet action-triggering on its own.
+
+**Process note:** this is now the *second* time a bounce was caught late (Tulsi Dental missed
+by night 4, Abhilasha Classes missed by both night 4 and night 5). The pattern suggests each
+session's "check all threads" pass is being done too quickly/skimmed rather than methodically.
+Fix applied tonight: read the full paginated thread list output in full rather than
+scanning for the word "bounce," and cross-referenced every SENT thread against sent-log.md's
+existing bounce notes to catch any gap. Future sessions should do the same — treat this as a
+full audit, not a diff against memory of "what we already knew."
