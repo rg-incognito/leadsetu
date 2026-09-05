@@ -283,3 +283,58 @@ Fix applied tonight: read the full paginated thread list output in full rather t
 scanning for the word "bounce," and cross-referenced every SENT thread against sent-log.md's
 existing bounce notes to catch any gap. Future sessions should do the same — treat this as a
 full audit, not a diff against memory of "what we already knew."
+
+**Reassessment decision (night 1 crossed 5 days old, still zero replies):** Made the call to
+not fully overhaul the approach yet — 0/75 replies in 5 days for cold email to public
+listing addresses isn't strong evidence of failure on its own: ~9.3% of the 75 are confirmed
+invalid/bounced addresses (shrinking the effective delivered sample to ~68), and many of these
+addresses are Google-Maps-listing inboxes small business owners check irregularly, sometimes
+only weekly. Indian SMB cold-email response data generally takes 1-4 weeks to materialize, so
+5 days is still early. However, since a change was due, made one concrete adjustment starting
+tonight: **introduced 2 rotating subject-line variants** instead of reusing the identical
+"Chhoti si baat — ..." subject for every single send. Half of tonight's batch uses
+"{Business} — kitni {noun} enquiries chhoot rahi hain?" (a more direct, curiosity-driving
+subject), the other half uses "{Business} ke liye 48-ghante free pilot — {noun} follow-up
+automate" (leads with the concrete offer). Email body content is unchanged (same
+truthful/compliant structure, opt-out line intact) — only the subject line varies, so this is
+a subject-line test, not a strategy pivot. **Checkpoint set:** if there are still zero replies
+by night ~10-12 (i.e. ~10-12 days after night 1, in the 2026-09-10 to 2026-09-12 range), that
+crosses from "still early" into a real signal — the following session should escalate to
+`STATE.md` → "Needs owner decision" with a recommendation to either try the phone/WhatsApp
+channel (decision #4) or fundamentally rework the offer/targeting, rather than continuing to
+grind out more research passes on the same format.
+
+## Night 6 continued — research pass 6 (new cities), all 14 sent
+
+Research pass 6 (`research/targets-pass6.md`, delegated to a subagent) found 14 new verified-
+email candidates across 12 fresh cities (Kadapa, Bhavnagar ×2, Kollam ×2, Bilaspur CG, Erode,
+Rajahmundry, Sikar, Kurnool, Latur, Kolhapur, Gaya, Muzaffarnagar) and 13 phone/form-only
+leads. All 14 verified candidates emailed tonight (under the 15/night cap — this was the
+entire verified list from the pass):
+
+| Date (IST) | Business | Recipient email | City | Category | Subject | Notes |
+|---|---|---|---|---|---|---|
+| 2026-09-05 | G Interiors | ginterior.hafele@gmail.com | Kadapa | Interior design | G Interiors — kitni client enquiries chhoot rahi hain? | Gmail msg id 1a0731839ef70b4f |
+| 2026-09-05 | Design Square | designsquare2017@gmail.com | Bhavnagar | Interior design | Design Square ke liye 48-ghante free pilot — enquiry follow-up automate | Gmail msg id 1a073184cd42b59d |
+| 2026-09-05 | Nazaara Boutique | nazaaradesigns@gmail.com | Kollam | Retail (boutique) | Nazaara Boutique — kitni customer enquiries chhoot rahi hain? | Gmail msg id 1a073186268bd1eb |
+| 2026-09-05 | KR Driving School | krdsperumpuzha@gmail.com | Kollam | Driving school | KR Driving School ke liye 48-ghante free pilot — enrolment follow-up automate | Gmail msg id 1a07318793badb35 |
+| 2026-09-05 | Bodyline Fitness | bodyline.fitness.bsp@gmail.com | Bilaspur (CG) | Gym | Bodyline Fitness — kitni membership enquiries chhoot rahi hain? | Gmail msg id 1a073188f4dce78c |
+| 2026-09-05 | ERO Fitness | erofitness333@gmail.com | Erode | Gym | ERO Fitness ke liye 48-ghante free pilot — membership follow-up automate | Gmail msg id 1a07318a2fa22825 |
+| 2026-09-05 | New Look Beauty Parlor | newlookparlor2018@gmail.com | Rajahmundry | Salon/Beauty | New Look Beauty Parlor — kitni customer enquiries chhoot rahi hain? | Gmail msg id 1a07318c9a8b49a1 |
+| 2026-09-05 | Asha's Fresh Look | Ashafreshlook@gmail.com | Sikar | Salon/bridal makeup | Asha's Fresh Look ke liye 48-ghante free pilot — customer follow-up automate | Gmail msg id 1a07318dddb8848d |
+| 2026-09-05 | Kurnool Events | kurnooleventsofficial@gmail.com | Kurnool | Wedding/event planner | Kurnool Events — kitni couple enquiries chhoot rahi hain? | Gmail msg id 1a07318fab0a3eaf |
+| 2026-09-05 | PV Physics Classes | pv.phylatur@gmail.com | Latur | Coaching (NEET/JEE physics) | PV Physics Classes ke liye 48-ghante free pilot — admission follow-up automate | Gmail msg id 1a0731911a28983b |
+| 2026-09-05 | Nitin Kesarkar & Associates | realnitinkesarkar@gmail.com | Kolhapur | Real estate | Nitin Kesarkar & Associates — kitni buyer enquiries chhoot rahi hain? | Gmail msg id 1a0731928cf13012 |
+| 2026-09-05 | MKC Wedding Studio | mkcweddingstudio1@gmail.com | Gaya | Photography | MKC Wedding Studio ke liye 48-ghante free pilot — customer follow-up automate | Gmail msg id 1a073193d59a8a1a |
+| 2026-09-05 | One Click Studio | oneclickstudio91@gmail.com | Bhavnagar | Photography | One Click Studio — kitni customer enquiries chhoot rahi hain? | Gmail msg id 1a0731950db0252e |
+| 2026-09-05 | Studio'9 Photography | studio9photographymzn@gmail.com | Muzaffarnagar | Photography | Studio'9 Photography ke liye 48-ghante free pilot — customer follow-up automate | Gmail msg id 1a073196793b5f6e |
+
+**Total sent tonight: 14/15 (under cap — this was the entire verified-email list from pass
+6).** Same compliance as prior nights: truthful, no fabricated claims/numbers, signed with
+real name + reply address, "STOP" opt-out line, first contact for all 14. Subject lines vary
+per the reassessment decision above (body content unchanged). Do NOT re-contact any of
+tonight's 14 before **2026-09-19** (14-day rule) unless they reply first.
+
+**`research/targets-pass6.md` is now fully exhausted for email outreach.**
+
+**Running total: 89 businesses contacted across 6 nights (15 + 15 + 15 + 15 + 15 + 14).**
